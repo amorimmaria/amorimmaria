@@ -10,5 +10,5 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@mariadasgracasdiasamorim)](https://medium.com/@mariadasgracasdiasamorim)
 
 ![Maria das Graças github stats](https://github-readme-stats.vercel.app/api?username=amorimmaria&show_icons=true&hide_border=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&show_icons=true&hide_border=true&layout=compact)
 
