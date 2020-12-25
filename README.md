@@ -9,6 +9,6 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maria.das.gracas95/)](https://www.instagram.com/maria.das.gracas95/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@mariadasgracasdiasamorim)](https://medium.com/@mariadasgracasdiasamorim)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&layout=compact)
 ![Maria das Graças github stats](https://github-readme-stats.vercel.app/api?username=amorimmaria&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&layout=compact)
 
