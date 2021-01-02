@@ -6,8 +6,9 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-das-gra%C3%A7as-dias-amorim//)](https://www.linkedin.com/in/maria-das-gra%C3%A7as-dias-amorim/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariadasgracasdiasamorim@gmail.com)](mailto:mariadasgracasdiasamorim@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maria.das.gracas95/)](https://www.instagram.com/maria.das.gracas95/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@mariadasgracasdiasamorim)](https://medium.com/@mariadasgracasdiasamorim)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maria.das.gracas95/)](https://www.instagram.com/maria.das.gracas95/)
+
 
 ![Maria das Graças github stats](https://github-readme-stats.vercel.app/api?username=amorimmaria&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&layout=compact)
