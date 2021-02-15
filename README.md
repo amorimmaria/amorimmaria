@@ -13,4 +13,3 @@ Onde me encontrar?
 
 ![Maria das Graças github stats](https://github-readme-stats.vercel.app/api?username=amorimmaria&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&layout=compact)
-
