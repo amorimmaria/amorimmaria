@@ -2,7 +2,11 @@
 
 Uma developer sempre em busca de conhecimento e em constante aprendizado.
 
-Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" target="_blank">Jaine Senna</a>, chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>) onde compartilhamos dicas e assuntos sobre tecnologia, com a intenção de gerar e expandir conhecimento para outras pessoas. 
+Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" target="_blank">Jaine Senna</a>, chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>) onde compartilhamos dicas e assuntos sobre tecnologia, com a intenção de gerar e expandir conhecimento para outras pessoas.
+
+### Linguagens e Ferramentas:
+
+
 
 **Entrar em contato**
 
@@ -12,5 +16,5 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maria.das.gracas95/)](https://www.instagram.com/maria.das.gracas95/)
 
 
-![Maria das Graças github stats](https://github-readme-stats.vercel.app/api?username=amorimmaria&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&layout=compact)
+![Maria das Graças github stats](https://github-readme-stats.vercel.app/api?username=amorimmaria&show_icons=true&icon_color=5E1F64&bg_color=30,e96443,904e95&title_color=5E1F64&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&show_icons=true&icon_color=5E1F64&bg_color=30,e96443,904e95&title_color=5E1F64&text_color=fff)
