@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amorimmaria" alt="amorimmaria" /> </p>
+
 # Maria das Graças :woman_technologist: 
 
 Uma developer sempre em busca de conhecimento e em constante aprendizado.
