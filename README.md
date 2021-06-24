@@ -50,7 +50,6 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 </div>
 
 <br />
-<br />
 
 ![Maria das Graças github stats](https://github-readme-stats.vercel.app/api?username=amorimmaria&show_icons=true&icon_color=5E1F64&bg_color=30,e96443,904e95&title_color=5E1F64&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimmaria&show_icons=true&icon_color=5E1F64&bg_color=30,e96443,904e95&title_color=5E1F64&text_color=fff)
