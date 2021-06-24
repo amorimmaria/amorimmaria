@@ -4,7 +4,7 @@ Uma developer sempre em busca de conhecimento e em constante aprendizado.
 
 Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" target="_blank">Jaine Senna</a>, chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>) onde compartilhamos dicas e assuntos sobre tecnologia, com a intenção de gerar e expandir conhecimento para outras pessoas.
 
-### Linguagens e Ferramentas:
+#### Linguagens e Ferramentas:
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -13,9 +13,7 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 
 <img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-
 <img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
 
 <img align="left" alt="Nextjs" width="25px" height="26px" src="https://i.ytimg.com/vi/X3W-YFe2_io/maxresdefault.jpg" />
 
@@ -27,7 +25,6 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 
 <img align="left" alt="Styled Components" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
 
-
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -35,6 +32,7 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 <img align="left" alt="MySQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="PostgreSQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
 
 
 
