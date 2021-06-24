@@ -21,6 +21,8 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 
 <img align="left" alt="React Native" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
 
+<img align="left" width="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
 <img align="left" alt="GitHub" width="25px" src="https://img2.gratispng.com/20180512/gle/kisspng-github-pages-logo-computer-icons-5af70e19834367.5091665315261404415377.jpg" />
 
 <img align="left" alt="Styled Components" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
@@ -32,10 +34,6 @@ Atualmente tenho um projeto junto com <a href="https://github.com/jainesenna" ta
 <img align="left" alt="MySQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="PostgreSQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-
-
-
 
 <br />
 <br />
