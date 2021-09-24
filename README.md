@@ -39,19 +39,19 @@ Além da área de desenvolvimento Full Stack, tenho buscado aprender também um 
 <br />
 
 #### Ferramentas:
-<img align="left" width="40" height="30"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img align="left" width="40" height="40"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 
 <img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 
-<img align="left" width="40" height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+<img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 
-<img align="left" alt="Visual Studio Code" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" width="40" height="30" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
+<img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 
-<img align="left" width="40" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/insomnia.svg" />
+<img align="left" width="40" height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/insomnia.svg" />
 
-<img align="left" width="40" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"    />
 
 <br />
 <br />
