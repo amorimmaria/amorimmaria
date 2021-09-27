@@ -2,13 +2,13 @@
 
 # Olá, eu sou Maria das Graças <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> 
 
-Uma developer apaixonada por tecnologia e buscando sempre por conhecimento.</br>
-Além da área de desenvolvimento Full Stack, tenho buscado aprender também um pouco sobre UI/UX.
+Uma developer buscando sempre por conhecimento.</br>
+Atualmente estou buscando ampliar e explorar conhecimento na área de desenvolvimento Full Stack, mas também tenho buscado aprender um pouco sobre UI/UX.
 
 - 📚 Estudante de Sistemas de Informação (UFRN).
-- 💻 Tenho interesse nas tecnologias React.JS, React Native, Node.JS, Next.JS, Typescript, entre outras.
+- 💻 Estou ampliando e melhorando meus conhecimentos nas tecnologias: React.JS, React Native, Node.JS, Next.JS, Typescript, entre outras.
 
-- 🥅  Atualmente tenho um projeto em conjunto com <a href="https://github.com/jainesenna" target="_blank">Jaine Senna</a>, chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>) | (<a href="https://compilagirl.netlify.app/" target="_blank">https://compilagirl.netlify.app/</a>) onde compartilhamos dicas e assuntos sobre tecnologia, com a intenção de partilhar e expandir conhecimento para outras pessoas.
+- 🥅  Atualmente tenho um projeto em conjunto com <a href="https://github.com/jainesenna" target="_blank">Jaine Senna</a>, chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>) | (<a href="https://compilagirl.netlify.app/" target="_blank">https://compilagirl.netlify.app/</a>) onde compartilhamos dicas e assuntos sobre tecnologia, com a intenção de partilhar e expandir conhecimento para outras pessoas sobre a área da tecnologia.
 
 #### Linguagens e habilidades:
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
