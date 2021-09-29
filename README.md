@@ -6,7 +6,7 @@ Uma developer buscando sempre por conhecimento.</br>
 Atualmente estou buscando ampliar e explorar conhecimento na área de desenvolvimento Full Stack, mas também tenho buscado aprender um pouco sobre UI/UX.
 
 - 📚 Estudante de Sistemas de Informação (UFRN).
-- 💻 Estou ampliando e melhorando meus conhecimentos nas tecnologias: React.JS, React Native, Node.JS, Next.JS, Typescript, entre outras.
+- 💻 Tenho interesse em: React.JS, React Native, Node.JS, Next.JS, Typescript, entre outras.
 
 - 🥅  Atualmente tenho um projeto em conjunto com <a href="https://github.com/jainesenna" target="_blank">Jaine Senna</a>, chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>) | (<a href="https://compilagirl.netlify.app/" target="_blank">https://compilagirl.netlify.app/</a>) onde compartilhamos dicas e assuntos sobre tecnologia, com a intenção de partilhar e expandir conhecimento para outras pessoas sobre a área da tecnologia.
 
