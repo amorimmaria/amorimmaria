@@ -7,7 +7,7 @@ Atualmente estou buscando ampliar e explorar conhecimento na área de desenvolvi
 
 - 📚 Estudante de Sistemas de Informação (UFRN).
 - 💻 Atualmente estou trabalhando como desenvolvedora Front-end na [Bitwise](https://bitwise.ltda/pt).
-- 💻 Tenho interesse em: React.JS, React Native, Node.JS, Next.JS, Typescript, entre outras.
+- 💻 Tenho interesse em: React.JS, React Native, Node.JS, Next.JS, TypeScript, entre outras.
 - 🥅  Tenho um projeto em conjunto com <a href="https://github.com/jainesenna" target="_blank">Jaine Senna</a>, chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>) | (<a href="https://compilagirl.netlify.app/" target="_blank">https://compilagirl.netlify.app/</a>) onde compartilhamos dicas e assuntos sobre tecnologia, com a intenção de partilhar e expandir conhecimento para outras pessoas sobre a área da tecnologia.
 
 #### Linguagens e habilidades:
