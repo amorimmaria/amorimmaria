@@ -3,7 +3,7 @@
 # Olá, eu sou Maria das Graças <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> 
 
 Uma developer buscando sempre por conhecimento.</br>
-Atualmente estou buscando ampliar e explorar conhecimento na área de desenvolvimento Full Stack, mas também tenho buscado aprender um pouco sobre UI/UX.
+Atualmente estou buscando ampliar e explorar conhecimento na área de desenvolvimento com foco em Front-End, mas também tenho buscado aprender um pouco sobre UI/UX.
 
 - 📚 Estudante de Sistemas de Informação (UFRN).
 - 💻 Atualmente estou trabalhando como desenvolvedora Front-end na [Bitwise](https://bitwise.ltda/pt).
