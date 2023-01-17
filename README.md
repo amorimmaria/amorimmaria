@@ -56,6 +56,7 @@ Atualmente estou buscando ampliar e explorar conhecimento na área de desenvolvi
 <img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"    />
 
 <br />
+
 <br />
 <div align="center">
   <h4>Entrar em contato</h4>
