@@ -2,13 +2,10 @@
 
 # Olá, eu sou Maria das Graças <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> 
 
-Uma developer buscando sempre por conhecimento.</br>
-Atualmente estou buscando ampliar e explorar conhecimento na área de desenvolvimento com foco em Front-End, mas também tenho buscado aprender um pouco sobre UI/UX.
-
 - 📚 Estudante de Sistemas de Informação (UFRN).
-- 💻 Atualmente estou trabalhando como desenvolvedora Front-end na [Bitwise](https://bitwise.ltda/pt).
-- 💻 Tenho interesse em: React.JS, React Native, Node.JS, Next.JS, TypeScript, entre outras.
-- 🥅  Tenho um projeto em conjunto com <a href="https://github.com/jainesenna" target="_blank">Jaine Senna</a>, chamado Compila Girl (<a href="https://www.instagram.com/compilagirl/" target="_blank">@compilagirl</a>) | (<a href="https://compilagirl.netlify.app/" target="_blank">https://compilagirl.netlify.app/</a>) onde compartilhamos dicas e assuntos sobre tecnologia, com a intenção de partilhar e expandir conhecimento para outras pessoas sobre a área da tecnologia.
+- 🚀 Atualmente estou trabalhando como desenvolvedora front-end na [Bitwise](https://bitwise.ltda/pt).
+- 💻 Tenho interesse em: React.JS, React Native, Node.JS, Next.JS, TypeScript.
+- 💡 Além do desenvolvimento front-end, também me interesso por UX/UI design.
 
 #### Linguagens e habilidades:
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
