@@ -7,7 +7,7 @@
 - 💻 I am interested in: React.JS, React Native, Node.JS, Next.JS, TypeScript.
 - 💡 In addition to front-end development, I am also interested in UX/UI design.
 
-#### Linguagens e habilidades:
+#### Languages and Skills:
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -35,7 +35,7 @@
 <br />
 <br />
 
-#### Ferramentas:
+#### Tools:
 <img align="left" width="40" height="40"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 
 <img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
