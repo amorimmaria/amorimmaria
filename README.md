@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amorimmaria" alt="amorimmaria" /> </p>
 
-# Olá, eu sou Maria das Graças <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> 
+# Hello, I am Maria das Graças. <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> 
 
-- 📚 Estudante de Sistemas de Informação (UFRN).
-- 🚀 Atualmente estou trabalhando como desenvolvedora front-end na [Bitwise](https://bitwise.ltda/pt).
-- 💻 Tenho interesse em: React.JS, React Native, Node.JS, Next.JS, TypeScript.
-- 💡 Além do desenvolvimento front-end, também me interesso por UX/UI design.
+- 📚 I am a student of Information Systems at UFRN.
+- 🚀 Currently, I am working as a front-end developer at [Bitwise](https://bitwise.ltda/pt).
+- 💻 I am interested in: React.JS, React Native, Node.JS, Next.JS, TypeScript.
+- 💡 In addition to front-end development, I am also interested in UX/UI design.
 
 #### Linguagens e habilidades:
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -56,7 +56,7 @@
 <br />
 
 <div align="center">
-  <h4>Entrar em contato</h4>
+  <h4>Contact me</h4>
 </div>
 
 <div align="center">
