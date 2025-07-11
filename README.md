@@ -3,7 +3,7 @@
 # Hello, I am Maria das Graças. <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> 
 
 - 📚 I am a student of Information Systems at UFRN.
-- 🚀 Currently, I am working as a front-end developer at [CI&T](https://ciandt.com/br/pt-br/home).
+- 🚀 Currently, I am working as a front-end developer at [RD Saúde](https://rdsaude.com.br/).
 - 💻 I am interested in: React.JS, React Native, Node.JS, Next.JS, TypeScript.
 - 💡 In addition to front-end development, I am also interested in UX/UI design.
 
